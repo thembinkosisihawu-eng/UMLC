@@ -1,6 +1,6 @@
 # UKZN Marine Life Club Website
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOURUSERNAME/umlc-website)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/thembinkosisihawu-eng/umlc-website)
 
 ## Admin Login
 - URL: `/login`
